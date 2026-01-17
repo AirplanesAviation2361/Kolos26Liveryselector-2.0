@@ -1,10 +1,3 @@
-Airplanesaviation2415/
-├─ textures/         
-│   └─ 777-300ER-flypakistan.jpeg
-├─ thumbnails/       
-│   └─ 777-300ER.jpeg
-└─ liveries.json
-
 {
   "25": {
     "name": "Boeing 777-300ER",
@@ -19,9 +12,10 @@ Airplanesaviation2415/
     ],
     "labels": [
       "Specular shader",
-      "Texture"
-    ]
-  }
-}
-
+      "
+      
+"thumbnail": "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/thumbnails/777-300ER.jpeg",
+"textures": [
+  "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/777-300ER-flypakistan.jpeg"
+]
 
